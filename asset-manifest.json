@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/scipio/static/css/main.8b2f572e.chunk.css",
+    "main.js": "/scipio/static/js/main.e753968f.chunk.js",
+    "main.js.map": "/scipio/static/js/main.e753968f.chunk.js.map",
+    "runtime-main.js": "/scipio/static/js/runtime-main.d7ef34d7.js",
+    "runtime-main.js.map": "/scipio/static/js/runtime-main.d7ef34d7.js.map",
+    "static/js/2.4c27f118.chunk.js": "/scipio/static/js/2.4c27f118.chunk.js",
+    "static/js/2.4c27f118.chunk.js.map": "/scipio/static/js/2.4c27f118.chunk.js.map",
+    "index.html": "/scipio/index.html",
+    "precache-manifest.de68e969bd63189a62000989b1a15de6.js": "/scipio/precache-manifest.de68e969bd63189a62000989b1a15de6.js",
+    "service-worker.js": "/scipio/service-worker.js",
+    "static/css/main.8b2f572e.chunk.css.map": "/scipio/static/css/main.8b2f572e.chunk.css.map",
+    "static/js/2.4c27f118.chunk.js.LICENSE.txt": "/scipio/static/js/2.4c27f118.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d7ef34d7.js",
+    "static/js/2.4c27f118.chunk.js",
+    "static/css/main.8b2f572e.chunk.css",
+    "static/js/main.e753968f.chunk.js"
+  ]
+}
