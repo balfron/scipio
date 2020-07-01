@@ -3,7 +3,7 @@ import { mockData, DataPoint, DataSet } from "./mock-data";
 import Highcharts from "highcharts/highstock";
 import HighchartsReact from "highcharts-react-official";
 
-const USE_MOCK_DATA = true;
+const USE_MOCK_DATA = false;
 
 const convertData = (json: DataSet): Highcharts.PointOptionsObject[] => {
   return Object.keys(json).map((key: string) => {
