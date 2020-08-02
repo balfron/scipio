@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "201bfe0b9486dbafd5994090dacd4c61",
+    "revision": "33f3eceadef941a28dcbf5ee62d890f7",
     "url": "/scipio/index.html"
   },
   {
-    "revision": "10cad940c52e5cec1890",
+    "revision": "fa7fa4d034414c68da09",
     "url": "/scipio/static/css/main.8b2f572e.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/scipio/static/js/2.4c27f118.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "10cad940c52e5cec1890",
-    "url": "/scipio/static/js/main.e753968f.chunk.js"
+    "revision": "fa7fa4d034414c68da09",
+    "url": "/scipio/static/js/main.93bb9537.chunk.js"
   },
   {
     "revision": "16c53bb31000578ac40a",
