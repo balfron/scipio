@@ -24,6 +24,11 @@ const getOptions = (
   title: {
     text: "1-minute agent consensus portfolio value (USD)",
   },
+  plotOptions: {
+    line: {
+      turboThreshold: 0,
+    },
+  },
   series: [
     {
       name: "USD",
