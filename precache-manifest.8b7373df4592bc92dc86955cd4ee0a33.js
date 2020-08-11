@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "33f3eceadef941a28dcbf5ee62d890f7",
+    "revision": "7d0f46303cefe4e40ce82954f1ffa4a8",
     "url": "/scipio/index.html"
   },
   {
